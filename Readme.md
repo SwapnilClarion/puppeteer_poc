@@ -1,14 +1,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/SwapnilClarion/puppeteer_poc">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Playwright POC - SSense</h3>
+  <h3 align="center">Puppeteer POC - SSense</h3>
 
   <p align="center">
-    Automation framework using Playwright - Mocha,Typescript.
+    Automation framework using Puppeteer - Mocha,Typescript.
     <br />
   </p>
 </p>
@@ -48,7 +48,7 @@
 
 ### Built With
 
-* [Playwright](https://playwright.dev/)
+* [Pupeeteer](https://pptr.dev/)
 * [Typescript](https://www.typescriptlang.org/)
 * [Mocha](https://mochajs.org/)
 
@@ -68,7 +68,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SwapnilClarion/playwright_poc.git
+   git clone https://github.com/SwapnilClarion/puppeteer_poc.git
    ```
 2. Install NPM packages
    ```sh
